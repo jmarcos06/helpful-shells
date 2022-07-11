@@ -1,7 +1,8 @@
 #
 # Author: Joao Marcos
-# email: jmarcosalves06@gmail.com || dearauj@hotmail.com
+# email:  jmarcosalves06@gmail.com || dearauj@hotmail.com
 #
+# $ ./update_upgrade.sh
 
 #cores
 SEM_COR='\e[0m'
@@ -14,4 +15,4 @@ updateUpgrade(){
 }
 
 updateUpgrade
-echo "${VERDE}UPDATE, UPGRADE and DIST-UPGRADE complete sucesfully!"
+echo "${VERDE}UPDATE, UPGRADE and DIST-UPGRADE complete sucesfully!${SEM_COR}"
