@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Author: Joao Marcos
 # email:  jmarcosalves06@gmail.com || dearauj@hotmail.com
@@ -16,4 +16,4 @@ updateUpgrade(){
 }
 
 updateUpgrade
-echo "${VERDE}UPDATE, UPGRADE and DIST-UPGRADE complete sucesfully!${SEM_COR}"
+echo -e "${VERDE}UPDATE, UPGRADE and DIST-UPGRADE complete sucesfully!${SEM_COR}"
