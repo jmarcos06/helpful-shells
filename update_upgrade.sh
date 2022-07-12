@@ -1,3 +1,4 @@
+#!/bin/bash
 #
 # Author: Joao Marcos
 # email:  jmarcosalves06@gmail.com || dearauj@hotmail.com
