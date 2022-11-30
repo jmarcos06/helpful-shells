@@ -1,0 +1,17 @@
+ dunst
+ eclipse-master.zip
+ geany
+ godot
+ Gruvbox-GTK-Theme
+ iniparser
+ IoT-Hacking
+ neovim
+ picom
+ polybar
+ polybar-themes
+ rofi
+ rototrash
+ Rufus
+ spicetify-themes
+ switchboard-plug-indicators
+ t

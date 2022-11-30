@@ -1,0 +1,90 @@
+=== FLATPAK INSTALLED APPS ===
+Byte	com.github.alainm23.byte	0.4.2	stable	flathub	system
+Planner	com.github.alainm23.planner	3.0.8	stable	flathub	system
+Darkbar	com.github.bluesabre.darkbar	1.0.1	stable	flathub	system
+Fondo	com.github.calo001.fondo	1.6.1	stable	appcenter	user
+AppEditor	com.github.donadigo.appeditor	1.1.4	stable	appcenter	system
+Prettifier	com.github.fleury08.prettifier	1.3.0	stable	appcenter	system
+LibreSprite	com.github.libresprite.LibreSprite	1.0	stable	flathub	system
+Tuner	com.github.louis77.tuner	1.4.0	stable	flathub	system
+Pomodoro	com.github.oowoosh0.pomodoro	1.0.1	stable	appcenter	user
+Minder	com.github.phase1geo.minder	1.14.0	stable	flathub	system
+Picker	com.github.phoneybadger.picker	1.1.0	stable	appcenter	system
+Whaler	com.github.sdv43.whaler	1.2.0	stable	appcenter	user
+Ensembles	com.github.subhadeepjasu.ensembles	0.0.17	stable	appcenter	user
+Pebbles	com.github.subhadeepjasu.pebbles	2.0.5	stable	appcenter	user
+Bottles	com.usebottles.bottles	2022.9.28	stable	flathub	user
+elementary platform	io.elementary.Platform		6	appcenter	system
+elementary platform	io.elementary.Platform		6.1	appcenter	system
+elementary platform	io.elementary.Platform		7	appcenter	system
+Calculator	io.elementary.calculator	2.0.0	stable	appcenter	system
+Calendar	io.elementary.calendar	6.1.1	stable	appcenter	system
+Camera	io.elementary.camera	6.2.0	stable	appcenter	system
+Captive Network Assistant	io.elementary.capnet-assist	2.4.2	stable	appcenter	system
+Screenshot	io.elementary.screenshot	6.0.2	stable	appcenter	system
+Videos	io.elementary.videos	2.8.4	stable	appcenter	system
+GitHub Desktop	io.github.shiftey.Desktop	3.0.7-linux1	stable	flathub	user
+Blender	org.blender.Blender	3.3.1	stable	flathub	user
+Codecs	org.blender.Blender.Codecs		stable	flathub	user
+Chromium Web Browser	org.chromium.Chromium	106.0.5249.91	stable	flathub	system
+Codecs	org.chromium.Chromium.Codecs		stable	flathub	system
+FamiStudio	org.famistudio.FamiStudio	4.0.4	stable	flathub	user
+Piper	org.freedesktop.Piper	0.7	stable	flathub	system
+Freedesktop Platform	org.freedesktop.Platform	21.08.15	21.08	flathub	system
+Freedesktop Platform	org.freedesktop.Platform	21.08.15	21.08	flathub	user
+Freedesktop Platform	org.freedesktop.Platform	22.08.2.1	22.08	flathub	system
+i386	org.freedesktop.Platform.Compat.i386		21.08	flathub	user
+Mesa	org.freedesktop.Platform.GL.default	21.3.9	21.08	freedesktop	system
+Mesa	org.freedesktop.Platform.GL.default	21.3.9	21.08	flathub	user
+Mesa	org.freedesktop.Platform.GL.default	mesa-22.1.7	22.08	flathub	system
+Mesa	org.freedesktop.Platform.GL.default	mesa-22.1.7	22.08	flathub	user
+default	org.freedesktop.Platform.GL32.default		21.08	flathub	user
+Mesa	org.freedesktop.Platform.GL32.default	mesa-22.1.7	22.08	flathub	user
+Intel	org.freedesktop.Platform.VAAPI.Intel		21.08	flathub	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		21.08	flathub	user
+Intel	org.freedesktop.Platform.VAAPI.Intel		22.08	flathub	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		22.08	flathub	user
+i386	org.freedesktop.Platform.VAAPI.Intel.i386		21.08	flathub	user
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		21.08	flathub	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		21.08	flathub	user
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		22.08	flathub	user
+i386	org.freedesktop.Platform.ffmpeg_full.i386		21.08	flathub	user
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	flathub	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	flathub	user
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	flathub	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	flathub	user
+Freedesktop SDK	org.freedesktop.Sdk	21.08.15	21.08	flathub	user
+Freedesktop SDK	org.freedesktop.Sdk	22.08.2.1	22.08	flathub	system
+GNU Image Manipulation Program	org.gimp.GIMP	2.10.32	stable	flathub	system
+Boxes	org.gnome.Boxes	43.0	stable	flathub	system
+GNOME Boxes Osinfo DB	org.gnome.Boxes.Extension.OsinfoDb	20220830	stable	flathub	system
+Web	org.gnome.Epiphany	42.3	stable	appcenter	system
+Document Viewer	org.gnome.Evince	42.2	stable	appcenter	system
+GNOME Application Platform version 41	org.gnome.Platform		41	flathub	system
+GNOME Application Platform version 42	org.gnome.Platform		42	flathub	system
+GNOME Application Platform version 42	org.gnome.Platform		42	flathub	user
+GNOME Application Platform version 43	org.gnome.Platform		43	flathub	system
+GNOME Application Platform version 43	org.gnome.Platform		43	flathub	user
+i386	org.gnome.Platform.Compat.i386		42	flathub	user
+i386	org.gnome.Platform.Compat.i386		43	flathub	user
+Qogir GTK theme	org.gtk.Gtk3theme.Qogir		3.34	flathub	user
+Inkscape	org.inkscape.Inkscape	1.2.1	stable	flathub	user
+KDE Application Platform	org.kde.Platform		5.15-21.08	flathub	system
+KDE Application Platform	org.kde.Platform		5.15-21.08	flathub	user
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-21.08	flathub	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-21.08	flathub	user
+QtSNI	org.kde.PlatformTheme.QtSNI		5.15-21.08	flathub	system
+QtSNI	org.kde.PlatformTheme.QtSNI		5.15-21.08	flathub	user
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-21.08	flathub	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-21.08	flathub	user
+Krita	org.kde.krita	5.1.1	stable	flathub	system
+Firefox	org.mozilla.firefox	105.0.3	stable	flathub	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.1.1	stable	flathub	system
+qBittorrent	org.qbittorrent.qBittorrent	4.4.5	stable	flathub	system
+desktop translations	org.telegram.desktop.Locale		stable	flathub	system
+desktop translations	org.telegram.desktop.Locale		stable	flathub	user
+DXVK	org.winehq.Wine.DLLs.dxvk	1.10.3	stable-21.08	flathub	user
+Gecko	org.winehq.Wine.gecko		stable-21.08	flathub	user
+Gecko	org.winehq.Wine.gecko		stable-22.08	flathub	user
+Mono	org.winehq.Wine.mono		stable-21.08	flathub	user
+Mono	org.winehq.Wine.mono		stable-22.08	flathub	user
